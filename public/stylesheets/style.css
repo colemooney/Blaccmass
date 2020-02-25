@@ -1,0 +1,16 @@
+body {
+  padding: 50px;
+  font: 32px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-size: cover;
+  color: lime; }
+
+h1, h2, h3 {
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif; }
+
+a {
+  color: #00B7FF; }
+
+.whole {
+  margin: 5% 0% 0% 10%; }
+
+/*# sourceMappingURL=style.css.map */

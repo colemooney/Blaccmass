@@ -1,8 +1,17 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 32px "Lucida Grande", Helvetica, Arial, sans-serif;
+  // background-image: url('/images/money.jpg');
+  background-size: cover;
+  color: lime;
+}
+h1, h2, h3{
+  font-family: "Playfair Display", Georgia, "Times New Roman", serif;
 }
 
 a {
   color: #00B7FF;
+}
+.whole{
+  margin: 5% 0% 0% 10%;
 }
